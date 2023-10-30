@@ -113,6 +113,8 @@ namespace UHF
            
         }
 
+        //Create a bluetooth connection to desktop.
+
         private void Btnsessionget_Click(object sender, EventArgs e)
         {
             Gen2Entity p = mContext.uhfAPI.Gen2;
