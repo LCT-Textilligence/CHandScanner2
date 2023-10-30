@@ -1,0 +1,342 @@
+UHF.Filter_Fragment, demo_uhf_uart;crc64d94a05dc019196a4.Filter_Fragment
+UHF.Filter_Fragment;crc64d94a05dc019196a4.Filter_Fragment
+uhf.Filter_Fragment;crc64d94a05dc019196a4.Filter_Fragment
+UHF.MainActivity, demo_uhf_uart;crc64d94a05dc019196a4.MainActivity
+UHF.MainActivity;crc64d94a05dc019196a4.MainActivity
+uhf.MainActivity;crc64d94a05dc019196a4.MainActivity
+UHF.MainActivity+InitTask, demo_uhf_uart;crc64d94a05dc019196a4.MainActivity_InitTask
+UHF.MainActivity.InitTask;crc64d94a05dc019196a4.MainActivity_InitTask
+uhf.MainActivity_InitTask;crc64d94a05dc019196a4.MainActivity_InitTask
+UHF.Scan_Fragment, demo_uhf_uart;crc64d94a05dc019196a4.Scan_Fragment
+UHF.Scan_Fragment;crc64d94a05dc019196a4.Scan_Fragment
+uhf.Scan_Fragment;crc64d94a05dc019196a4.Scan_Fragment
+UHF.Scan_Fragment+UIHand, demo_uhf_uart;crc64d94a05dc019196a4.Scan_Fragment_UIHand
+UHF.Scan_Fragment.UIHand;crc64d94a05dc019196a4.Scan_Fragment_UIHand
+uhf.Scan_Fragment_UIHand;crc64d94a05dc019196a4.Scan_Fragment_UIHand
+UHF.Set_Fragment, demo_uhf_uart;crc64d94a05dc019196a4.Set_Fragment
+UHF.Set_Fragment;crc64d94a05dc019196a4.Set_Fragment
+uhf.Set_Fragment;crc64d94a05dc019196a4.Set_Fragment
+UHF.Read_Fragment, demo_uhf_uart;crc64d94a05dc019196a4.Read_Fragment
+UHF.Read_Fragment;crc64d94a05dc019196a4.Read_Fragment
+uhf.Read_Fragment;crc64d94a05dc019196a4.Read_Fragment
+UHF.Write_Fragment, demo_uhf_uart;crc64d94a05dc019196a4.Write_Fragment
+UHF.Write_Fragment;crc64d94a05dc019196a4.Write_Fragment
+uhf.Write_Fragment;crc64d94a05dc019196a4.Write_Fragment
+Com.Zebra.Adc.Decoder.Barcode2DWithSoft+IPictureCallback, DeviceAPI_Android;com.zebra.adc.decoder.Barcode2DWithSoft$PictureCallback
+Com.Zebra.Adc.Decoder.Barcode2DWithSoft.IPictureCallback;com.zebra.adc.decoder.Barcode2DWithSoft$PictureCallback
+com.zebra.adc.decoder.Barcode2DWithSoft$PictureCallback;com.zebra.adc.decoder.Barcode2DWithSoft$PictureCallback
+Com.Zebra.Adc.Decoder.Barcode2DWithSoft+IScanCallback, DeviceAPI_Android;com.zebra.adc.decoder.Barcode2DWithSoft$ScanCallback
+Com.Zebra.Adc.Decoder.Barcode2DWithSoft.IScanCallback;com.zebra.adc.decoder.Barcode2DWithSoft$ScanCallback
+com.zebra.adc.decoder.Barcode2DWithSoft$ScanCallback;com.zebra.adc.decoder.Barcode2DWithSoft$ScanCallback
+Com.Zebra.Adc.Decoder.Barcode2DWithSoft+IVideoCallback, DeviceAPI_Android;com.zebra.adc.decoder.Barcode2DWithSoft$VideoCallback
+Com.Zebra.Adc.Decoder.Barcode2DWithSoft.IVideoCallback;com.zebra.adc.decoder.Barcode2DWithSoft$VideoCallback
+com.zebra.adc.decoder.Barcode2DWithSoft$VideoCallback;com.zebra.adc.decoder.Barcode2DWithSoft$VideoCallback
+Com.Zebra.Adc.Decoder.BarCodeReader+IDecodeCallback, DeviceAPI_Android;com.zebra.adc.decoder.BarCodeReader$DecodeCallback
+Com.Zebra.Adc.Decoder.BarCodeReader.IDecodeCallback;com.zebra.adc.decoder.BarCodeReader$DecodeCallback
+com.zebra.adc.decoder.BarCodeReader$DecodeCallback;com.zebra.adc.decoder.BarCodeReader$DecodeCallback
+Com.Zebra.Adc.Decoder.BarCodeReader+IPictureCallback, DeviceAPI_Android;com.zebra.adc.decoder.BarCodeReader$PictureCallback
+Com.Zebra.Adc.Decoder.BarCodeReader.IPictureCallback;com.zebra.adc.decoder.BarCodeReader$PictureCallback
+com.zebra.adc.decoder.BarCodeReader$PictureCallback;com.zebra.adc.decoder.BarCodeReader$PictureCallback
+Com.Zebra.Adc.Decoder.BarCodeReader+IVideoCallback, DeviceAPI_Android;com.zebra.adc.decoder.BarCodeReader$VideoCallback
+Com.Zebra.Adc.Decoder.BarCodeReader.IVideoCallback;com.zebra.adc.decoder.BarCodeReader$VideoCallback
+com.zebra.adc.decoder.BarCodeReader$VideoCallback;com.zebra.adc.decoder.BarCodeReader$VideoCallback
+Com.Rscja.Team.Qcom.Usb.IUsbSerialPort_qcom, DeviceAPI_Android;com.rscja.team.qcom.usb.UsbSerialPort_qcom
+Com.Rscja.Team.Qcom.Usb.IUsbSerialPort_qcom;com.rscja.team.qcom.usb.UsbSerialPort_qcom
+com.rscja.team.qcom.usb.UsbSerialPort_qcom;com.rscja.team.qcom.usb.UsbSerialPort_qcom
+Com.Rscja.Team.Qcom.Urax.IURA4Gpio, DeviceAPI_Android;com.rscja.team.qcom.urax.IURA4Gpio
+Com.Rscja.Team.Qcom.Urax.IURA4Gpio;com.rscja.team.qcom.urax.IURA4Gpio
+com.rscja.team.qcom.urax.IURA4Gpio;com.rscja.team.qcom.urax.IURA4Gpio
+Com.Rscja.Team.Qcom.Urax.IURAxDevice, DeviceAPI_Android;com.rscja.team.qcom.urax.IURAxDevice
+Com.Rscja.Team.Qcom.Urax.IURAxDevice;com.rscja.team.qcom.urax.IURAxDevice
+com.rscja.team.qcom.urax.IURAxDevice;com.rscja.team.qcom.urax.IURAxDevice
+Com.Rscja.Team.Qcom.Service.BLEService_qcom+IDataCallBack, DeviceAPI_Android;com.rscja.team.qcom.service.BLEService_qcom$IDataCallBack
+Com.Rscja.Team.Qcom.Service.BLEService_qcom.IDataCallBack;com.rscja.team.qcom.service.BLEService_qcom$IDataCallBack
+com.rscja.team.qcom.service.BLEService_qcom$IDataCallBack;com.rscja.team.qcom.service.BLEService_qcom$IDataCallBack
+Com.Rscja.Team.Qcom.R1.IPSAM, DeviceAPI_Android;com.rscja.team.qcom.r1.IPSAM
+Com.Rscja.Team.Qcom.R1.IPSAM;com.rscja.team.qcom.r1.IPSAM
+com.rscja.team.qcom.r1.IPSAM;com.rscja.team.qcom.r1.IPSAM
+Com.Rscja.Team.Qcom.Http.IDownLoadProgress_qcom, DeviceAPI_Android;com.rscja.team.qcom.http.IDownLoadProgress_qcom
+Com.Rscja.Team.Qcom.Http.IDownLoadProgress_qcom;com.rscja.team.qcom.http.IDownLoadProgress_qcom
+com.rscja.team.qcom.http.IDownLoadProgress_qcom;com.rscja.team.qcom.http.IDownLoadProgress_qcom
+Com.Rscja.Team.Qcom.Http.IUploadProgress_qcom, DeviceAPI_Android;com.rscja.team.qcom.http.IUploadProgress_qcom
+Com.Rscja.Team.Qcom.Http.IUploadProgress_qcom;com.rscja.team.qcom.http.IUploadProgress_qcom
+com.rscja.team.qcom.http.IUploadProgress_qcom;com.rscja.team.qcom.http.IUploadProgress_qcom
+Com.Rscja.Team.Qcom.Barcode.Symbol.IBarcodeSymbol_qcom, DeviceAPI_Android;com.rscja.team.qcom.barcode.symbol.IBarcodeSymbol_qcom
+Com.Rscja.Team.Qcom.Barcode.Symbol.IBarcodeSymbol_qcom;com.rscja.team.qcom.barcode.symbol.IBarcodeSymbol_qcom
+com.rscja.team.qcom.barcode.symbol.IBarcodeSymbol_qcom;com.rscja.team.qcom.barcode.symbol.IBarcodeSymbol_qcom
+Com.Rscja.Team.Mtk.Barcode.BarcodeDecoder_mtk+IDecodeCallback, DeviceAPI_Android;com.rscja.team.mtk.barcode.BarcodeDecoder_mtk$DecodeCallback
+Com.Rscja.Team.Mtk.Barcode.BarcodeDecoder_mtk.IDecodeCallback;com.rscja.team.mtk.barcode.BarcodeDecoder_mtk$DecodeCallback
+com.rscja.team.mtk.barcode.BarcodeDecoder_mtk$DecodeCallback;com.rscja.team.mtk.barcode.BarcodeDecoder_mtk$DecodeCallback
+Com.Rscja.Team.Mtk.Barcode.Symbol.IBarcodeSymbol_mtk, DeviceAPI_Android;com.rscja.team.mtk.barcode.symbol.IBarcodeSymbol_mtk
+Com.Rscja.Team.Mtk.Barcode.Symbol.IBarcodeSymbol_mtk;com.rscja.team.mtk.barcode.symbol.IBarcodeSymbol_mtk
+com.rscja.team.mtk.barcode.symbol.IBarcodeSymbol_mtk;com.rscja.team.mtk.barcode.symbol.IBarcodeSymbol_mtk
+Com.Rscja.System.ISystemInterfaces, DeviceAPI_Android;com.rscja.system.ISystemInterfaces
+Com.Rscja.System.ISystemInterfaces;com.rscja.system.ISystemInterfaces
+com.rscja.system.ISystemInterfaces;com.rscja.system.ISystemInterfaces
+Com.Rscja.Scanner.IOnUhfWorkStateListenerNew, DeviceAPI_Android;com.rscja.scanner.OnUhfWorkStateListenerNew
+Com.Rscja.Scanner.IOnUhfWorkStateListenerNew;com.rscja.scanner.OnUhfWorkStateListenerNew
+com.rscja.scanner.OnUhfWorkStateListenerNew;com.rscja.scanner.OnUhfWorkStateListenerNew
+Com.Rscja.Deviceapi.FingerprintWithFIPS+IEnrollCallBack, DeviceAPI_Android;com.rscja.deviceapi.FingerprintWithFIPS$EnrollCallBack
+Com.Rscja.Deviceapi.FingerprintWithFIPS.IEnrollCallBack;com.rscja.deviceapi.FingerprintWithFIPS$EnrollCallBack
+com.rscja.deviceapi.FingerprintWithFIPS$EnrollCallBack;com.rscja.deviceapi.FingerprintWithFIPS$EnrollCallBack
+Com.Rscja.Deviceapi.FingerprintWithFIPS+IGRABCallBack, DeviceAPI_Android;com.rscja.deviceapi.FingerprintWithFIPS$GRABCallBack
+Com.Rscja.Deviceapi.FingerprintWithFIPS.IGRABCallBack;com.rscja.deviceapi.FingerprintWithFIPS$GRABCallBack
+com.rscja.deviceapi.FingerprintWithFIPS$GRABCallBack;com.rscja.deviceapi.FingerprintWithFIPS$GRABCallBack
+Com.Rscja.Deviceapi.FingerprintWithFIPS+IIdentificationCallBack, DeviceAPI_Android;com.rscja.deviceapi.FingerprintWithFIPS$IdentificationCallBack
+Com.Rscja.Deviceapi.FingerprintWithFIPS.IIdentificationCallBack;com.rscja.deviceapi.FingerprintWithFIPS$IdentificationCallBack
+com.rscja.deviceapi.FingerprintWithFIPS$IdentificationCallBack;com.rscja.deviceapi.FingerprintWithFIPS$IdentificationCallBack
+Com.Rscja.Deviceapi.FingerprintWithFIPS+IPtCaptureCallBack, DeviceAPI_Android;com.rscja.deviceapi.FingerprintWithFIPS$PtCaptureCallBack
+Com.Rscja.Deviceapi.FingerprintWithFIPS.IPtCaptureCallBack;com.rscja.deviceapi.FingerprintWithFIPS$PtCaptureCallBack
+com.rscja.deviceapi.FingerprintWithFIPS$PtCaptureCallBack;com.rscja.deviceapi.FingerprintWithFIPS$PtCaptureCallBack
+Com.Rscja.Deviceapi.FingerprintWithFIPS+ITemplateVerifyCallBack, DeviceAPI_Android;com.rscja.deviceapi.FingerprintWithFIPS$TemplateVerifyCallBack
+Com.Rscja.Deviceapi.FingerprintWithFIPS.ITemplateVerifyCallBack;com.rscja.deviceapi.FingerprintWithFIPS$TemplateVerifyCallBack
+com.rscja.deviceapi.FingerprintWithFIPS$TemplateVerifyCallBack;com.rscja.deviceapi.FingerprintWithFIPS$TemplateVerifyCallBack
+Com.Rscja.Deviceapi.FingerprintWithMorpho+IEnrollCallBack, DeviceAPI_Android;com.rscja.deviceapi.FingerprintWithMorpho$EnrollCallBack
+Com.Rscja.Deviceapi.FingerprintWithMorpho.IEnrollCallBack;com.rscja.deviceapi.FingerprintWithMorpho$EnrollCallBack
+com.rscja.deviceapi.FingerprintWithMorpho$EnrollCallBack;com.rscja.deviceapi.FingerprintWithMorpho$EnrollCallBack
+Com.Rscja.Deviceapi.FingerprintWithMorpho+IGrabCallBack, DeviceAPI_Android;com.rscja.deviceapi.FingerprintWithMorpho$GrabCallBack
+Com.Rscja.Deviceapi.FingerprintWithMorpho.IGrabCallBack;com.rscja.deviceapi.FingerprintWithMorpho$GrabCallBack
+com.rscja.deviceapi.FingerprintWithMorpho$GrabCallBack;com.rscja.deviceapi.FingerprintWithMorpho$GrabCallBack
+Com.Rscja.Deviceapi.FingerprintWithMorpho+IIdentificationCallBack, DeviceAPI_Android;com.rscja.deviceapi.FingerprintWithMorpho$IdentificationCallBack
+Com.Rscja.Deviceapi.FingerprintWithMorpho.IIdentificationCallBack;com.rscja.deviceapi.FingerprintWithMorpho$IdentificationCallBack
+com.rscja.deviceapi.FingerprintWithMorpho$IdentificationCallBack;com.rscja.deviceapi.FingerprintWithMorpho$IdentificationCallBack
+Com.Rscja.Deviceapi.FingerprintWithMorpho+IPtCaptureCallBack, DeviceAPI_Android;com.rscja.deviceapi.FingerprintWithMorpho$PtCaptureCallBack
+Com.Rscja.Deviceapi.FingerprintWithMorpho.IPtCaptureCallBack;com.rscja.deviceapi.FingerprintWithMorpho$PtCaptureCallBack
+com.rscja.deviceapi.FingerprintWithMorpho$PtCaptureCallBack;com.rscja.deviceapi.FingerprintWithMorpho$PtCaptureCallBack
+Com.Rscja.Deviceapi.FingerprintWithMorpho+ITemplateVerifyCallBack, DeviceAPI_Android;com.rscja.deviceapi.FingerprintWithMorpho$TemplateVerifyCallBack
+Com.Rscja.Deviceapi.FingerprintWithMorpho.ITemplateVerifyCallBack;com.rscja.deviceapi.FingerprintWithMorpho$TemplateVerifyCallBack
+com.rscja.deviceapi.FingerprintWithMorpho$TemplateVerifyCallBack;com.rscja.deviceapi.FingerprintWithMorpho$TemplateVerifyCallBack
+Com.Rscja.Deviceapi.FingerprintWithTLK1NC+IUPImageCallback, DeviceAPI_Android;com.rscja.deviceapi.FingerprintWithTLK1NC$IUPImageCallback
+Com.Rscja.Deviceapi.FingerprintWithTLK1NC.IUPImageCallback;com.rscja.deviceapi.FingerprintWithTLK1NC$IUPImageCallback
+com.rscja.deviceapi.FingerprintWithTLK1NC$IUPImageCallback;com.rscja.deviceapi.FingerprintWithTLK1NC$IUPImageCallback
+Com.Rscja.Deviceapi.IOnDataChangeListenerNew, DeviceAPI_Android;com.rscja.deviceapi.OnDataChangeListenerNew
+Com.Rscja.Deviceapi.IOnDataChangeListenerNew;com.rscja.deviceapi.OnDataChangeListenerNew
+com.rscja.deviceapi.OnDataChangeListenerNew;com.rscja.deviceapi.OnDataChangeListenerNew
+Com.Rscja.Deviceapi.Printer+IPrinterStatusCallBack, DeviceAPI_Android;com.rscja.deviceapi.Printer$PrinterStatusCallBack
+Com.Rscja.Deviceapi.Printer.IPrinterStatusCallBack;com.rscja.deviceapi.Printer$PrinterStatusCallBack
+com.rscja.deviceapi.Printer$PrinterStatusCallBack;com.rscja.deviceapi.Printer$PrinterStatusCallBack
+Com.Rscja.Deviceapi.Interfaces.IBarcode1D, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IBarcode1D
+Com.Rscja.Deviceapi.Interfaces.IBarcode1D;com.rscja.deviceapi.interfaces.IBarcode1D
+com.rscja.deviceapi.interfaces.IBarcode1D;com.rscja.deviceapi.interfaces.IBarcode1D
+Com.Rscja.Deviceapi.Interfaces.IBarcode2D, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IBarcode2D
+Com.Rscja.Deviceapi.Interfaces.IBarcode2D;com.rscja.deviceapi.interfaces.IBarcode2D
+com.rscja.deviceapi.interfaces.IBarcode2D;com.rscja.deviceapi.interfaces.IBarcode2D
+Com.Rscja.Deviceapi.Interfaces.IBarcodePhoto, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IBarcodePhoto
+Com.Rscja.Deviceapi.Interfaces.IBarcodePhoto;com.rscja.deviceapi.interfaces.IBarcodePhoto
+com.rscja.deviceapi.interfaces.IBarcodePhoto;com.rscja.deviceapi.interfaces.IBarcodePhoto
+Com.Rscja.Deviceapi.Interfaces.IBarcodePictureCallback, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IBarcodePictureCallback
+Com.Rscja.Deviceapi.Interfaces.IBarcodePictureCallback;com.rscja.deviceapi.interfaces.IBarcodePictureCallback
+com.rscja.deviceapi.interfaces.IBarcodePictureCallback;com.rscja.deviceapi.interfaces.IBarcodePictureCallback
+Com.Rscja.Deviceapi.Interfaces.IBarcodeSymbolUtility, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IBarcodeSymbolUtility
+Com.Rscja.Deviceapi.Interfaces.IBarcodeSymbolUtility;com.rscja.deviceapi.interfaces.IBarcodeSymbolUtility
+com.rscja.deviceapi.interfaces.IBarcodeSymbolUtility;com.rscja.deviceapi.interfaces.IBarcodeSymbolUtility
+Com.Rscja.Deviceapi.Interfaces.IBarcodeUtility, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IBarcodeUtility
+Com.Rscja.Deviceapi.Interfaces.IBarcodeUtility;com.rscja.deviceapi.interfaces.IBarcodeUtility
+com.rscja.deviceapi.interfaces.IBarcodeUtility;com.rscja.deviceapi.interfaces.IBarcodeUtility
+Com.Rscja.Deviceapi.Interfaces.IBarcodeVideoCallback, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IBarcodeVideoCallback
+Com.Rscja.Deviceapi.Interfaces.IBarcodeVideoCallback;com.rscja.deviceapi.interfaces.IBarcodeVideoCallback
+com.rscja.deviceapi.interfaces.IBarcodeVideoCallback;com.rscja.deviceapi.interfaces.IBarcodeVideoCallback
+Com.Rscja.Deviceapi.Interfaces.ICardWithBYL, DeviceAPI_Android;com.rscja.deviceapi.interfaces.ICardWithBYL
+Com.Rscja.Deviceapi.Interfaces.ICardWithBYL;com.rscja.deviceapi.interfaces.ICardWithBYL
+com.rscja.deviceapi.interfaces.ICardWithBYL;com.rscja.deviceapi.interfaces.ICardWithBYL
+Com.Rscja.Deviceapi.Interfaces.IConnectionStatusCallback, DeviceAPI_Android;com.rscja.deviceapi.interfaces.ConnectionStatusCallback
+Com.Rscja.Deviceapi.Interfaces.IConnectionStatusCallback;com.rscja.deviceapi.interfaces.ConnectionStatusCallback
+com.rscja.deviceapi.interfaces.ConnectionStatusCallback;com.rscja.deviceapi.interfaces.ConnectionStatusCallback
+Com.Rscja.Deviceapi.Interfaces.IFingerprint, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IFingerprint
+Com.Rscja.Deviceapi.Interfaces.IFingerprint;com.rscja.deviceapi.interfaces.IFingerprint
+com.rscja.deviceapi.interfaces.IFingerprint;com.rscja.deviceapi.interfaces.IFingerprint
+Com.Rscja.Deviceapi.Interfaces.IFingerprintSM206B, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IFingerprintSM206B
+Com.Rscja.Deviceapi.Interfaces.IFingerprintSM206B;com.rscja.deviceapi.interfaces.IFingerprintSM206B
+com.rscja.deviceapi.interfaces.IFingerprintSM206B;com.rscja.deviceapi.interfaces.IFingerprintSM206B
+Com.Rscja.Deviceapi.Interfaces.IFingerprintWithFIPS, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IFingerprintWithFIPS
+Com.Rscja.Deviceapi.Interfaces.IFingerprintWithFIPS;com.rscja.deviceapi.interfaces.IFingerprintWithFIPS
+com.rscja.deviceapi.interfaces.IFingerprintWithFIPS;com.rscja.deviceapi.interfaces.IFingerprintWithFIPS
+Com.Rscja.Deviceapi.Interfaces.IFingerprintWithMorpho, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IFingerprintWithMorpho
+Com.Rscja.Deviceapi.Interfaces.IFingerprintWithMorpho;com.rscja.deviceapi.interfaces.IFingerprintWithMorpho
+com.rscja.deviceapi.interfaces.IFingerprintWithMorpho;com.rscja.deviceapi.interfaces.IFingerprintWithMorpho
+Com.Rscja.Deviceapi.Interfaces.IFingerprintWithTLK1NC, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IFingerprintWithTLK1NC
+Com.Rscja.Deviceapi.Interfaces.IFingerprintWithTLK1NC;com.rscja.deviceapi.interfaces.IFingerprintWithTLK1NC
+com.rscja.deviceapi.interfaces.IFingerprintWithTLK1NC;com.rscja.deviceapi.interfaces.IFingerprintWithTLK1NC
+Com.Rscja.Deviceapi.Interfaces.IFingerprintWithZAZ, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IFingerprintWithZAZ
+Com.Rscja.Deviceapi.Interfaces.IFingerprintWithZAZ;com.rscja.deviceapi.interfaces.IFingerprintWithZAZ
+com.rscja.deviceapi.interfaces.IFingerprintWithZAZ;com.rscja.deviceapi.interfaces.IFingerprintWithZAZ
+Com.Rscja.Deviceapi.Interfaces.IGPIStateCallback, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IGPIStateCallback
+Com.Rscja.Deviceapi.Interfaces.IGPIStateCallback;com.rscja.deviceapi.interfaces.IGPIStateCallback
+com.rscja.deviceapi.interfaces.IGPIStateCallback;com.rscja.deviceapi.interfaces.IGPIStateCallback
+Com.Rscja.Deviceapi.Interfaces.IHandheldRFID, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IHandheldRFID
+Com.Rscja.Deviceapi.Interfaces.IHandheldRFID;com.rscja.deviceapi.interfaces.IHandheldRFID
+com.rscja.deviceapi.interfaces.IHandheldRFID;com.rscja.deviceapi.interfaces.IHandheldRFID
+Com.Rscja.Deviceapi.Interfaces.IHF14443A, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IHF14443A
+Com.Rscja.Deviceapi.Interfaces.IHF14443A;com.rscja.deviceapi.interfaces.IHF14443A
+com.rscja.deviceapi.interfaces.IHF14443A;com.rscja.deviceapi.interfaces.IHF14443A
+Com.Rscja.Deviceapi.Interfaces.IHF14443B, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IHF14443B
+Com.Rscja.Deviceapi.Interfaces.IHF14443B;com.rscja.deviceapi.interfaces.IHF14443B
+com.rscja.deviceapi.interfaces.IHF14443B;com.rscja.deviceapi.interfaces.IHF14443B
+Com.Rscja.Deviceapi.Interfaces.IHF15693, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IHF15693
+Com.Rscja.Deviceapi.Interfaces.IHF15693;com.rscja.deviceapi.interfaces.IHF15693
+com.rscja.deviceapi.interfaces.IHF15693;com.rscja.deviceapi.interfaces.IHF15693
+Com.Rscja.Deviceapi.Interfaces.IInfrared, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IInfrared
+Com.Rscja.Deviceapi.Interfaces.IInfrared;com.rscja.deviceapi.interfaces.IInfrared
+com.rscja.deviceapi.interfaces.IInfrared;com.rscja.deviceapi.interfaces.IInfrared
+Com.Rscja.Deviceapi.Interfaces.IKeyEventCallback, DeviceAPI_Android;com.rscja.deviceapi.interfaces.KeyEventCallback
+Com.Rscja.Deviceapi.Interfaces.IKeyEventCallback;com.rscja.deviceapi.interfaces.KeyEventCallback
+com.rscja.deviceapi.interfaces.KeyEventCallback;com.rscja.deviceapi.interfaces.KeyEventCallback
+Com.Rscja.Deviceapi.Interfaces.ILedLight, DeviceAPI_Android;com.rscja.deviceapi.interfaces.ILedLight
+Com.Rscja.Deviceapi.Interfaces.ILedLight;com.rscja.deviceapi.interfaces.ILedLight
+com.rscja.deviceapi.interfaces.ILedLight;com.rscja.deviceapi.interfaces.ILedLight
+Com.Rscja.Deviceapi.Interfaces.IModule, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IModule
+Com.Rscja.Deviceapi.Interfaces.IModule;com.rscja.deviceapi.interfaces.IModule
+com.rscja.deviceapi.interfaces.IModule;com.rscja.deviceapi.interfaces.IModule
+Com.Rscja.Deviceapi.Interfaces.IMultipleAntenna, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IMultipleAntenna
+Com.Rscja.Deviceapi.Interfaces.IMultipleAntenna;com.rscja.deviceapi.interfaces.IMultipleAntenna
+com.rscja.deviceapi.interfaces.IMultipleAntenna;com.rscja.deviceapi.interfaces.IMultipleAntenna
+Com.Rscja.Deviceapi.Interfaces.IOnBleDataChangeListenerNew, DeviceAPI_Android;com.rscja.deviceapi.interfaces.OnBleDataChangeListenerNew
+Com.Rscja.Deviceapi.Interfaces.IOnBleDataChangeListenerNew;com.rscja.deviceapi.interfaces.OnBleDataChangeListenerNew
+com.rscja.deviceapi.interfaces.OnBleDataChangeListenerNew;com.rscja.deviceapi.interfaces.OnBleDataChangeListenerNew
+Com.Rscja.Deviceapi.Interfaces.IPrinter, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IPrinter
+Com.Rscja.Deviceapi.Interfaces.IPrinter;com.rscja.deviceapi.interfaces.IPrinter
+com.rscja.deviceapi.interfaces.IPrinter;com.rscja.deviceapi.interfaces.IPrinter
+Com.Rscja.Deviceapi.Interfaces.IPSAM, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IPSAM
+Com.Rscja.Deviceapi.Interfaces.IPSAM;com.rscja.deviceapi.interfaces.IPSAM
+com.rscja.deviceapi.interfaces.IPSAM;com.rscja.deviceapi.interfaces.IPSAM
+Com.Rscja.Deviceapi.Interfaces.IReader, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IReader
+Com.Rscja.Deviceapi.Interfaces.IReader;com.rscja.deviceapi.interfaces.IReader
+com.rscja.deviceapi.interfaces.IReader;com.rscja.deviceapi.interfaces.IReader
+Com.Rscja.Deviceapi.Interfaces.IRFIDBase, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IRFIDBase
+Com.Rscja.Deviceapi.Interfaces.IRFIDBase;com.rscja.deviceapi.interfaces.IRFIDBase
+com.rscja.deviceapi.interfaces.IRFIDBase;com.rscja.deviceapi.interfaces.IRFIDBase
+Com.Rscja.Deviceapi.Interfaces.IRFIDWithISO14443A, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IRFIDWithISO14443A
+Com.Rscja.Deviceapi.Interfaces.IRFIDWithISO14443A;com.rscja.deviceapi.interfaces.IRFIDWithISO14443A
+com.rscja.deviceapi.interfaces.IRFIDWithISO14443A;com.rscja.deviceapi.interfaces.IRFIDWithISO14443A
+Com.Rscja.Deviceapi.Interfaces.IRFIDWithISO14443A4CPU, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IRFIDWithISO14443A4CPU
+Com.Rscja.Deviceapi.Interfaces.IRFIDWithISO14443A4CPU;com.rscja.deviceapi.interfaces.IRFIDWithISO14443A4CPU
+com.rscja.deviceapi.interfaces.IRFIDWithISO14443A4CPU;com.rscja.deviceapi.interfaces.IRFIDWithISO14443A4CPU
+Com.Rscja.Deviceapi.Interfaces.IRFIDWithISO14443B, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IRFIDWithISO14443B
+Com.Rscja.Deviceapi.Interfaces.IRFIDWithISO14443B;com.rscja.deviceapi.interfaces.IRFIDWithISO14443B
+com.rscja.deviceapi.interfaces.IRFIDWithISO14443B;com.rscja.deviceapi.interfaces.IRFIDWithISO14443B
+Com.Rscja.Deviceapi.Interfaces.IRFIDWithISO15693, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IRFIDWithISO15693
+Com.Rscja.Deviceapi.Interfaces.IRFIDWithISO15693;com.rscja.deviceapi.interfaces.IRFIDWithISO15693
+com.rscja.deviceapi.interfaces.IRFIDWithISO15693;com.rscja.deviceapi.interfaces.IRFIDWithISO15693
+Com.Rscja.Deviceapi.Interfaces.IRFIDWithLF, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IRFIDWithLF
+Com.Rscja.Deviceapi.Interfaces.IRFIDWithLF;com.rscja.deviceapi.interfaces.IRFIDWithLF
+com.rscja.deviceapi.interfaces.IRFIDWithLF;com.rscja.deviceapi.interfaces.IRFIDWithLF
+Com.Rscja.Deviceapi.Interfaces.IRFIDWithUHFA4, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IRFIDWithUHFA4
+Com.Rscja.Deviceapi.Interfaces.IRFIDWithUHFA4;com.rscja.deviceapi.interfaces.IRFIDWithUHFA4
+com.rscja.deviceapi.interfaces.IRFIDWithUHFA4;com.rscja.deviceapi.interfaces.IRFIDWithUHFA4
+Com.Rscja.Deviceapi.Interfaces.IRFIDWithUHFA4Uart, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IRFIDWithUHFA4Uart
+Com.Rscja.Deviceapi.Interfaces.IRFIDWithUHFA4Uart;com.rscja.deviceapi.interfaces.IRFIDWithUHFA4Uart
+com.rscja.deviceapi.interfaces.IRFIDWithUHFA4Uart;com.rscja.deviceapi.interfaces.IRFIDWithUHFA4Uart
+Com.Rscja.Deviceapi.Interfaces.IRFIDWithUHFA8, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IRFIDWithUHFA8
+Com.Rscja.Deviceapi.Interfaces.IRFIDWithUHFA8;com.rscja.deviceapi.interfaces.IRFIDWithUHFA8
+com.rscja.deviceapi.interfaces.IRFIDWithUHFA8;com.rscja.deviceapi.interfaces.IRFIDWithUHFA8
+Com.Rscja.Deviceapi.Interfaces.IRFIDWithUHFA8Uart, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IRFIDWithUHFA8Uart
+Com.Rscja.Deviceapi.Interfaces.IRFIDWithUHFA8Uart;com.rscja.deviceapi.interfaces.IRFIDWithUHFA8Uart
+com.rscja.deviceapi.interfaces.IRFIDWithUHFA8Uart;com.rscja.deviceapi.interfaces.IRFIDWithUHFA8Uart
+Com.Rscja.Deviceapi.Interfaces.IRFIDWithUHFRLM, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IRFIDWithUHFRLM
+Com.Rscja.Deviceapi.Interfaces.IRFIDWithUHFRLM;com.rscja.deviceapi.interfaces.IRFIDWithUHFRLM
+com.rscja.deviceapi.interfaces.IRFIDWithUHFRLM;com.rscja.deviceapi.interfaces.IRFIDWithUHFRLM
+Com.Rscja.Deviceapi.Interfaces.IRFIDWithUHFUrxNetwork, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IRFIDWithUHFUrxNetwork
+Com.Rscja.Deviceapi.Interfaces.IRFIDWithUHFUrxNetwork;com.rscja.deviceapi.interfaces.IRFIDWithUHFUrxNetwork
+com.rscja.deviceapi.interfaces.IRFIDWithUHFUrxNetwork;com.rscja.deviceapi.interfaces.IRFIDWithUHFUrxNetwork
+Com.Rscja.Deviceapi.Interfaces.IRFIDWithUHFUrxUart, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IRFIDWithUHFUrxUart
+Com.Rscja.Deviceapi.Interfaces.IRFIDWithUHFUrxUart;com.rscja.deviceapi.interfaces.IRFIDWithUHFUrxUart
+com.rscja.deviceapi.interfaces.IRFIDWithUHFUrxUart;com.rscja.deviceapi.interfaces.IRFIDWithUHFUrxUart
+Com.Rscja.Deviceapi.Interfaces.IRFIDWithUHFUrxUsbToUart, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IRFIDWithUHFUrxUsbToUart
+Com.Rscja.Deviceapi.Interfaces.IRFIDWithUHFUrxUsbToUart;com.rscja.deviceapi.interfaces.IRFIDWithUHFUrxUsbToUart
+com.rscja.deviceapi.interfaces.IRFIDWithUHFUrxUsbToUart;com.rscja.deviceapi.interfaces.IRFIDWithUHFUrxUsbToUart
+Com.Rscja.Deviceapi.Interfaces.IRFIDWithUHFUSB, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IRFIDWithUHFUSB
+Com.Rscja.Deviceapi.Interfaces.IRFIDWithUHFUSB;com.rscja.deviceapi.interfaces.IRFIDWithUHFUSB
+com.rscja.deviceapi.interfaces.IRFIDWithUHFUSB;com.rscja.deviceapi.interfaces.IRFIDWithUHFUSB
+Com.Rscja.Deviceapi.Interfaces.IScanBTCallback, DeviceAPI_Android;com.rscja.deviceapi.interfaces.ScanBTCallback
+Com.Rscja.Deviceapi.Interfaces.IScanBTCallback;com.rscja.deviceapi.interfaces.ScanBTCallback
+com.rscja.deviceapi.interfaces.ScanBTCallback;com.rscja.deviceapi.interfaces.ScanBTCallback
+Com.Rscja.Deviceapi.Interfaces.IScanerLedLight, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IScanerLedLight
+Com.Rscja.Deviceapi.Interfaces.IScanerLedLight;com.rscja.deviceapi.interfaces.IScanerLedLight
+com.rscja.deviceapi.interfaces.IScanerLedLight;com.rscja.deviceapi.interfaces.IScanerLedLight
+Com.Rscja.Deviceapi.Interfaces.ISingleAntenna, DeviceAPI_Android;com.rscja.deviceapi.interfaces.ISingleAntenna
+Com.Rscja.Deviceapi.Interfaces.ISingleAntenna;com.rscja.deviceapi.interfaces.ISingleAntenna
+com.rscja.deviceapi.interfaces.ISingleAntenna;com.rscja.deviceapi.interfaces.ISingleAntenna
+Com.Rscja.Deviceapi.Interfaces.IUHF, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IUHF
+Com.Rscja.Deviceapi.Interfaces.IUHF;com.rscja.deviceapi.interfaces.IUHF
+com.rscja.deviceapi.interfaces.IUHF;com.rscja.deviceapi.interfaces.IUHF
+Com.Rscja.Deviceapi.Interfaces.IUHFInventoryCallback, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IUHFInventoryCallback
+Com.Rscja.Deviceapi.Interfaces.IUHFInventoryCallback;com.rscja.deviceapi.interfaces.IUHFInventoryCallback
+com.rscja.deviceapi.interfaces.IUHFInventoryCallback;com.rscja.deviceapi.interfaces.IUHFInventoryCallback
+Com.Rscja.Deviceapi.Interfaces.IUHFLocationCallback, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IUHFLocationCallback
+Com.Rscja.Deviceapi.Interfaces.IUHFLocationCallback;com.rscja.deviceapi.interfaces.IUHFLocationCallback
+com.rscja.deviceapi.interfaces.IUHFLocationCallback;com.rscja.deviceapi.interfaces.IUHFLocationCallback
+Com.Rscja.Deviceapi.Interfaces.IUHFOfAndroidUart, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IUHFOfAndroidUart
+Com.Rscja.Deviceapi.Interfaces.IUHFOfAndroidUart;com.rscja.deviceapi.interfaces.IUHFOfAndroidUart
+com.rscja.deviceapi.interfaces.IUHFOfAndroidUart;com.rscja.deviceapi.interfaces.IUHFOfAndroidUart
+Com.Rscja.Deviceapi.Interfaces.IUHFProtocolParseNew, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IUHFProtocolParseNew
+Com.Rscja.Deviceapi.Interfaces.IUHFProtocolParseNew;com.rscja.deviceapi.interfaces.IUHFProtocolParseNew
+com.rscja.deviceapi.interfaces.IUHFProtocolParseNew;com.rscja.deviceapi.interfaces.IUHFProtocolParseNew
+Com.Rscja.Deviceapi.Interfaces.IUhfReader, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IUhfReader
+Com.Rscja.Deviceapi.Interfaces.IUhfReader;com.rscja.deviceapi.interfaces.IUhfReader
+com.rscja.deviceapi.interfaces.IUhfReader;com.rscja.deviceapi.interfaces.IUhfReader
+Com.Rscja.Deviceapi.Interfaces.IUHFURAxExtendEew, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IUHFURAxExtendEew
+Com.Rscja.Deviceapi.Interfaces.IUHFURAxExtendEew;com.rscja.deviceapi.interfaces.IUHFURAxExtendEew
+com.rscja.deviceapi.interfaces.IUHFURAxExtendEew;com.rscja.deviceapi.interfaces.IUHFURAxExtendEew
+Com.Rscja.Deviceapi.Interfaces.IUHFURx, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IUHFURx
+Com.Rscja.Deviceapi.Interfaces.IUHFURx;com.rscja.deviceapi.interfaces.IUHFURx
+com.rscja.deviceapi.interfaces.IUHFURx;com.rscja.deviceapi.interfaces.IUHFURx
+Com.Rscja.Deviceapi.Interfaces.IUHFUrxAutoInventoryTag, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IUHFUrxAutoInventoryTag
+Com.Rscja.Deviceapi.Interfaces.IUHFUrxAutoInventoryTag;com.rscja.deviceapi.interfaces.IUHFUrxAutoInventoryTag
+com.rscja.deviceapi.interfaces.IUHFUrxAutoInventoryTag;com.rscja.deviceapi.interfaces.IUHFUrxAutoInventoryTag
+Com.Rscja.Deviceapi.Interfaces.IUpgradeProgress, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IUpgradeProgress
+Com.Rscja.Deviceapi.Interfaces.IUpgradeProgress;com.rscja.deviceapi.interfaces.IUpgradeProgress
+com.rscja.deviceapi.interfaces.IUpgradeProgress;com.rscja.deviceapi.interfaces.IUpgradeProgress
+Com.Rscja.Deviceapi.Interfaces.IURAxOfAndroidUart, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IURAxOfAndroidUart
+Com.Rscja.Deviceapi.Interfaces.IURAxOfAndroidUart;com.rscja.deviceapi.interfaces.IURAxOfAndroidUart
+com.rscja.deviceapi.interfaces.IURAxOfAndroidUart;com.rscja.deviceapi.interfaces.IURAxOfAndroidUart
+Com.Rscja.Deviceapi.Interfaces.IUsbFingerprint, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IUsbFingerprint
+Com.Rscja.Deviceapi.Interfaces.IUsbFingerprint;com.rscja.deviceapi.interfaces.IUsbFingerprint
+com.rscja.deviceapi.interfaces.IUsbFingerprint;com.rscja.deviceapi.interfaces.IUsbFingerprint
+Com.Rscja.Deviceapi.Interfaces.IZebra2DSoftDecoder, DeviceAPI_Android;com.rscja.deviceapi.interfaces.IZebra2DSoftDecoder
+Com.Rscja.Deviceapi.Interfaces.IZebra2DSoftDecoder;com.rscja.deviceapi.interfaces.IZebra2DSoftDecoder
+com.rscja.deviceapi.interfaces.IZebra2DSoftDecoder;com.rscja.deviceapi.interfaces.IZebra2DSoftDecoder
+Com.Rscja.Custom.UHFTemperatureTagsAPI+IUHFInventoryTempCallback, DeviceAPI_Android;com.rscja.custom.UHFTemperatureTagsAPI$IUHFInventoryTempCallback
+Com.Rscja.Custom.UHFTemperatureTagsAPI.IUHFInventoryTempCallback;com.rscja.custom.UHFTemperatureTagsAPI$IUHFInventoryTempCallback
+com.rscja.custom.UHFTemperatureTagsAPI$IUHFInventoryTempCallback;com.rscja.custom.UHFTemperatureTagsAPI$IUHFInventoryTempCallback
+Com.Rscja.Custom.Interfaces.IM775Authenticate, DeviceAPI_Android;com.rscja.custom.interfaces.IM775Authenticate
+Com.Rscja.Custom.Interfaces.IM775Authenticate;com.rscja.custom.interfaces.IM775Authenticate
+com.rscja.custom.interfaces.IM775Authenticate;com.rscja.custom.interfaces.IM775Authenticate
+Com.Rscja.Custom.Interfaces.IRFIDWithUHFShuangYingDianZi, DeviceAPI_Android;com.rscja.custom.interfaces.IRFIDWithUHFShuangYingDianZi
+Com.Rscja.Custom.Interfaces.IRFIDWithUHFShuangYingDianZi;com.rscja.custom.interfaces.IRFIDWithUHFShuangYingDianZi
+com.rscja.custom.interfaces.IRFIDWithUHFShuangYingDianZi;com.rscja.custom.interfaces.IRFIDWithUHFShuangYingDianZi
+Com.Rscja.Custom.Interfaces.IRFIDWithUHFUARTUAE, DeviceAPI_Android;com.rscja.custom.interfaces.IRFIDWithUHFUARTUAE
+Com.Rscja.Custom.Interfaces.IRFIDWithUHFUARTUAE;com.rscja.custom.interfaces.IRFIDWithUHFUARTUAE
+com.rscja.custom.interfaces.IRFIDWithUHFUARTUAE;com.rscja.custom.interfaces.IRFIDWithUHFUARTUAE
+Com.Rscja.Custom.Interfaces.IUHFTemperatureTagsAPI, DeviceAPI_Android;com.rscja.custom.interfaces.IUHFTemperatureTagsAPI
+Com.Rscja.Custom.Interfaces.IUHFTemperatureTagsAPI;com.rscja.custom.interfaces.IUHFTemperatureTagsAPI
+com.rscja.custom.interfaces.IUHFTemperatureTagsAPI;com.rscja.custom.interfaces.IUHFTemperatureTagsAPI
+Com.Rscja.Custom.Interfaces.IUHFUartFoxconn, DeviceAPI_Android;com.rscja.custom.interfaces.IUHFUartFoxconn
+Com.Rscja.Custom.Interfaces.IUHFUartFoxconn;com.rscja.custom.interfaces.IUHFUartFoxconn
+com.rscja.custom.interfaces.IUHFUartFoxconn;com.rscja.custom.interfaces.IUHFUartFoxconn
+Com.Rscja.Barcode.BarcodeDecoder+IDecodeCallback, DeviceAPI_Android;com.rscja.barcode.BarcodeDecoder$DecodeCallback
+Com.Rscja.Barcode.BarcodeDecoder.IDecodeCallback;com.rscja.barcode.BarcodeDecoder$DecodeCallback
+com.rscja.barcode.BarcodeDecoder$DecodeCallback;com.rscja.barcode.BarcodeDecoder$DecodeCallback
+Com.Rscja.Barcode.BarcodeDecoder+IBarcodeImageCallback, DeviceAPI_Android;com.rscja.barcode.BarcodeDecoder$IBarcodeImageCallback
+Com.Rscja.Barcode.BarcodeDecoder.IBarcodeImageCallback;com.rscja.barcode.BarcodeDecoder$IBarcodeImageCallback
+com.rscja.barcode.BarcodeDecoder$IBarcodeImageCallback;com.rscja.barcode.BarcodeDecoder$IBarcodeImageCallback
+Com.Rscja.Barcode.IBarcode2DSHardwareInfo, DeviceAPI_Android;com.rscja.barcode.IBarcode2DSHardwareInfo
+Com.Rscja.Barcode.IBarcode2DSHardwareInfo;com.rscja.barcode.IBarcode2DSHardwareInfo
+com.rscja.barcode.IBarcode2DSHardwareInfo;com.rscja.barcode.IBarcode2DSHardwareInfo
+Com.Idata.Scanner.Decoder.DecodeReader+IDecodeCallback, DeviceAPI_Android;com.idata.scanner.decoder.DecodeReader$DecodeCallback
+Com.Idata.Scanner.Decoder.DecodeReader.IDecodeCallback;com.idata.scanner.decoder.DecodeReader$DecodeCallback
+com.idata.scanner.decoder.DecodeReader$DecodeCallback;com.idata.scanner.decoder.DecodeReader$DecodeCallback
+Com.Hsm.Barcode.IDecoderListenerNew, DeviceAPI_Android;com.hsm.barcode.IDecoderListenerNew
+Com.Hsm.Barcode.IDecoderListenerNew;com.hsm.barcode.IDecoderListenerNew
+com.hsm.barcode.IDecoderListenerNew;com.hsm.barcode.IDecoderListenerNew
+Com.Dawn.Decoderapijni.ICamera, DeviceAPI_Android;com.dawn.decoderapijni.ICamera
+Com.Dawn.Decoderapijni.ICamera;com.dawn.decoderapijni.ICamera
+com.dawn.decoderapijni.ICamera;com.dawn.decoderapijni.ICamera
+Com.Dawn.Decoderapijni.SoftEngine+IInterfaceCodeAttrProp, DeviceAPI_Android;com.dawn.decoderapijni.SoftEngine$InterfaceCodeAttrProp
+Com.Dawn.Decoderapijni.SoftEngine.IInterfaceCodeAttrProp;com.dawn.decoderapijni.SoftEngine$InterfaceCodeAttrProp
+com.dawn.decoderapijni.SoftEngine$InterfaceCodeAttrProp;com.dawn.decoderapijni.SoftEngine$InterfaceCodeAttrProp
+Com.Dawn.Decoderapijni.SoftEngine+IScanningCallback, DeviceAPI_Android;com.dawn.decoderapijni.SoftEngine$ScanningCallback
+Com.Dawn.Decoderapijni.SoftEngine.IScanningCallback;com.dawn.decoderapijni.SoftEngine$ScanningCallback
+com.dawn.decoderapijni.SoftEngine$ScanningCallback;com.dawn.decoderapijni.SoftEngine$ScanningCallback
+Com.Dawn.Decoderapijni.SoftEngine+IUpgradeProgressCallback, DeviceAPI_Android;com.dawn.decoderapijni.SoftEngine$UpgradeProgressCallback
+Com.Dawn.Decoderapijni.SoftEngine.IUpgradeProgressCallback;com.dawn.decoderapijni.SoftEngine$UpgradeProgressCallback
+com.dawn.decoderapijni.SoftEngine$UpgradeProgressCallback;com.dawn.decoderapijni.SoftEngine$UpgradeProgressCallback
